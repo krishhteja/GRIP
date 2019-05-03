@@ -1,0 +1,7 @@
+<html>
+<body>
+<form id="form1" name="form1" method="post" action="products_download_excel.php">
+<label><input type="submit" name="getReport" id="getReport" style="border: solid 1px #E0451F; background:#E0451F; font-weight:bold; color:#FFF;" value="Get All Products in Excel Format"></label>
+</form>
+</body>
+</html>
